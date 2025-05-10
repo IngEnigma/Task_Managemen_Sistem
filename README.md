@@ -11,6 +11,12 @@
 $ npm install
 ```
 
+## Project Docs
+
+```bash
+$ http://localhost:3000/api/docs
+```
+
 ## Compile and run the project
 
 ```bash
